@@ -12,3 +12,8 @@ print(fruits[0])
 
 thisis = 'python'
 print(thisis[:3])
+
+my_list = [1,2,3,4,5]
+
+for a in my_list:
+    print('횟수:',a)
